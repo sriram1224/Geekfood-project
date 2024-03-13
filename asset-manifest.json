@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Geekfood-project/geekfood/static/css/main.eb72546f.css",
+    "main.js": "/Geekfood-project/geekfood/static/js/main.8cec5d6e.js",
+    "static/js/453.af66a239.chunk.js": "/Geekfood-project/geekfood/static/js/453.af66a239.chunk.js",
+    "static/media/log.svg": "/Geekfood-project/geekfood/static/media/log.22ce337ddc8fbf6b634b8ecc358b2b1a.svg",
+    "index.html": "/Geekfood-project/geekfood/index.html",
+    "main.eb72546f.css.map": "/Geekfood-project/geekfood/static/css/main.eb72546f.css.map",
+    "main.8cec5d6e.js.map": "/Geekfood-project/geekfood/static/js/main.8cec5d6e.js.map",
+    "453.af66a239.chunk.js.map": "/Geekfood-project/geekfood/static/js/453.af66a239.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb72546f.css",
+    "static/js/main.8cec5d6e.js"
+  ]
+}
